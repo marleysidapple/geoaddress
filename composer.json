@@ -1,6 +1,5 @@
 {
     "name": "marleysidapple/geoaddress",
-
     "description": "Package to get the latitude and longitude of the location",
     "keywords": ["geoaddress", "google-places", "latitude-longitude", "laravel"],
     "homepage": "https://github.com/marleysidapple/geoaddress",
@@ -17,5 +16,6 @@
         "psr-0": {
             "Marleysid\\Geoaddress": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
