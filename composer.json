@@ -1,9 +1,9 @@
 {
     "name": "marleysidapple/geoaddress",
-    "repositories": "https://github.com/marleysidapple/geoaddress",
+
     "description": "Package to get the latitude and longitude of the location",
     "keywords": ["geoaddress", "google-places", "latitude-longitude", "laravel"],
-    "homepage": "https://github.com/alexpechkarev/google-geocoder",
+    "homepage": "https://github.com/marleysidapple/geoaddress",
     "license": "MIT",
     "authors": [{
         "name": "Siddhartha Bhatta",
