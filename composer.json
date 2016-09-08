@@ -8,6 +8,10 @@
         "name": "Siddhartha Bhatta",
         "email": "bsiddhartha25@gmail.com"
     }],
+    "repositories": [{
+        "type": "vcs",
+        "url": "https://github.com/marleysidapple/geoaddress"
+    }],
     "require": {
         "php": ">=5.4.0",
         "guzzlehttp/guzzle": "~4.0"
