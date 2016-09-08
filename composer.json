@@ -1,0 +1,17 @@
+{
+    "name": "marleysid/geoaddress",
+    "description": "Package to get the latitude and longitude of the location",
+    "authors": [{
+        "name": "Siddhartha Bhatta",
+        "email": "bsiddhartha25@gmail.com"
+    }],
+    "minimum-stability": "dev",
+    "require": {
+        "guzzlehttp/guzzle": "~4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Marleysid\\geoaddress": "src/"
+        }
+    }
+}
