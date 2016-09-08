@@ -1,5 +1,5 @@
 {
-    "name": "marleysid/geoaddress",
+    "name": "marleysidapple/geoaddress",
     "version": "1.0.0",
     "description": "Package to get the latitude and longitude of the location",
     "keywords": ["geoaddress", "google-places", "latitude-longitude", "laravel"],
