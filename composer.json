@@ -16,6 +16,5 @@
         "psr-0": {
             "Marleysid\\Geoaddress": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
