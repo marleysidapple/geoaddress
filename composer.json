@@ -2,7 +2,7 @@
     "name": "marleysidapple/geoaddress",
     "version": "1.0.0",
     "description": "Geo-address api for laravel. Get latitude and longitude from location",
-    "keywords": ["geocoding", "geo-address", "latitude", "longitude" "laravel"],
+    "keywords": ["geocoding", "geo-address", "latitude", "longitude", "laravel"],
     "homepage": "https://github.com/marleysidapple/geoaddress",
     "license": "MIT",
     "authors": [
